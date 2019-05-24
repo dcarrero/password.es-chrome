@@ -1,10 +1,10 @@
 {
    "browser_action": {
       "default_icon": "icon.png",
-      "default_title": "Generate pronounceable passwords",
+      "default_title": "Generate pronounceable passwords by password.es",
       "default_popup": "popout.html"
    },
-   "description": "Generates pronounceable random passwords, very secure yet easy to remember",
+   "description": "Generates pronounceable random passwords, very secure yet easy to remember by password.es",
    "icons": {
       "128": "icon.png"
    },
